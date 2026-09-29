@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+.venv-linux/
+__pycache__/
+*.pyc
+backend/feedback_store.csv
+.env
+dist/
+backend/artifacts/
