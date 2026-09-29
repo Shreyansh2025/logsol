@@ -6,4 +6,3 @@ __pycache__/
 backend/feedback_store.csv
 .env
 dist/
-backend/artifacts/
